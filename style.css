@@ -6,12 +6,14 @@ div {
     display: inline-block;
     border: 1px solid olivedrab;
     margin: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 5px #000;
 }
 div.b12 {
-    width: 100%;
+    width: calc(100% - 22px);
     height: 400px;
 }
 div.b4 {
-    width: 33%;
+    width: calc(33% - 22px);
     height: 100px;
 }
