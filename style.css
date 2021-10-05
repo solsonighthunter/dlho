@@ -21,17 +21,15 @@ div:hover {
 }
 video {
     height: 100%;
-    width: 350px;
+    width: 500px;
     box-shadow : 0 0 10px crimson;
     border-radius: 20px;    
 }
 img {
-    width: 350px;
-    height: 350px;
+    width: 100%;
     border-radius: 20px;
     box-shadow: slateblue;
 }
 audio {
-    width: 100px;
     max-width: 100%;
 }
