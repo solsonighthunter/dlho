@@ -1,13 +1,13 @@
 body {
-    background-color: #e6cd31;
+    background-color: #c9dcd1;
 }
-
 div {
     display: inline-block;
     border: 1px solid olivedrab;
     margin: 10px;
     background-color: #fff;
-    box-shadow: 0 0 5px #000;
+    box-shadow: 0 3 5px #000;
+    
 }
 div.b12 {
     width: calc(100% - 22px);
@@ -16,4 +16,25 @@ div.b12 {
 div.b4 {
     width: calc(33% - 22px);
     height: 100px;
+}
+div:hover {
+    background-color:rgba (80, 80, 80, 80 );
+    box-shadow: slategrey;
+    direction: rtl;
+}
+video {
+    height: 100%;
+    width: 350px;
+    box-shadow : 0 0 10px crimson;
+    border-radius: 20px;    
+}
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    box-shadow: slateblue;
+}
+audio {
+    width: 100px;
+   max-width: 100%;
 }
