@@ -1,13 +1,13 @@
 body {
-    background-color: #993033;
+    background-color: #c9dcd1;
 }
-
 div {
     display: inline-block;
     border: 1px solid olivedrab;
     margin: 10px;
     background-color: #fff;
     box-shadow: 0 3 5px #000;
+    
 }
 div.b12 {
     width: calc(100% - 22px);
@@ -18,11 +18,23 @@ div.b4 {
     height: 100px;
 }
 div:hover {
+    background-color:rgba (80, 80, 80, 80 );
     box-shadow: slategrey;
     direction: rtl;
 }
-
+video {
+    height: 100%;
+    width: 350px;
+    box-shadow : 0 0 10px crimson;
+    border-radius: 20px;    
+}
 img {
-    border-radius: 10px;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
     box-shadow: slateblue;
+}
+audio {
+    width: 100px;
+   max-width: 100%;
 }
