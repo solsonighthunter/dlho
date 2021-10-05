@@ -11,16 +11,13 @@ div {
 }
 div.b12 {
     width: calc(100% - 22px);
-    height: 400px;
 }
 div.b4 {
     width: calc(33% - 22px);
-    height: 100px;
 }
 div:hover {
     background-color:rgba (80, 80, 80, 80 );
     box-shadow: slategrey;
-    direction: rtl;
 }
 video {
     height: 100%;
@@ -36,5 +33,5 @@ img {
 }
 audio {
     width: 100px;
-   max-width: 100%;
+    max-width: 100%;
 }
