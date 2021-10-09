@@ -7,7 +7,7 @@ div {
     margin: 10px;
     background-color: #fff;
     box-shadow: 0 3 5px #000;
-    
+    border-radius: 20px;
 }
 div.b12 {
     width: calc(100% - 22px);
@@ -22,12 +22,12 @@ div:hover {
 video {
     height: 100%;
     width: 500px;
-    box-shadow : 0 0 10px crimson;
+    box-shadow : 0 0 10px green;
     border-radius: 20px;    
 }
 img {
     width: 100%;
-    border-radius: 20px;
+    max-width: 600px;
     box-shadow: slateblue;
 }
 audio {
