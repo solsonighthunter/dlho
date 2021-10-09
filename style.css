@@ -8,6 +8,7 @@ div {
     background-color: #fff;
     box-shadow: 0 3 5px #000;
     border-radius: 20px;
+    overflow: hidden;
 }
 div.b12 {
     width: calc(100% - 22px);
