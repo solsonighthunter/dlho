@@ -3,7 +3,6 @@ body {
 }
 div {
     display: inline-block;
-    border: 1px solid olivedrab;
     margin: 10px;
     background-color: #fff;
     box-shadow: 0 0 5px #000;
@@ -11,13 +10,13 @@ div {
     overflow: hidden;
 }
 div.b12 {
-    width: calc(100% - 22px);
+    width: calc(100% - 20px);
 }
 div.b8 {
-    width: calc(66% - 22px); 
+    width: calc(66% - 20px); 
 }
 div.b4 {
-    width: calc(33% - 22px);
+    width: calc(33% - 20px);
 }
 div:hover {
     background-color:rgba (80, 80, 80, 80 );
