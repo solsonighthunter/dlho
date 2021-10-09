@@ -14,10 +14,10 @@ div.b12 {
     width: calc(100% - 22px);
 }
 div.b8 {
-    width: calc(66.6% - 22px); 
+    width: calc(66.% - 22px); 
 }
 div.b4 {
-    width: calc(33.3% - 22px);
+    width: calc(33% - 22px);
 }
 div:hover {
     background-color:rgba (80, 80, 80, 80 );
