@@ -2,11 +2,8 @@ table,th,td {
   border: 1xp solid #444;
 }
   table {
-    width: 100%;
+    border-collapse: collapse;
   }
-  th {
-    text-align: center;
-  }
-  td {
-    height: 50px;
+  td,th {
+    padding: 15px;
   }
