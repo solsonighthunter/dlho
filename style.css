@@ -1,9 +1,8 @@
 table,th,td {
-  border: 1xp solid #444;
+  border: 1xp solid red;
 }
   table {
     border-collapse: collapse;
-    color: red;
   }
   td,th {
     padding: 15px;
