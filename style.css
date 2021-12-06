@@ -10,5 +10,8 @@
       padding: 20px;
       margin: 100px;
       box-sizing: border_box;
-      border_radius:center;
+      border_radius:center:50px;
+    }
+    a {
+      color: white;
     }
