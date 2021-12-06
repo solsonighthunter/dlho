@@ -3,6 +3,7 @@ table,th,td {
 }
   table {
     border-collapse: collapse;
+    color: red;
   }
   td,th {
     padding: 15px;
