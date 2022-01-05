@@ -1,15 +1,6 @@
-table,th,td {
-  border: 3px solid #444;
-}
-  table {
-    width: 100%;
-  }
-  td {
-    padding: 15px;
-  }
-  th {
-    text-align: 50px;
-  }
 body {
   background-color: #99ffff;
+}
+h1 {
+  color: red;
 }
