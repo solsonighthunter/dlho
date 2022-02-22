@@ -2,5 +2,14 @@ body {
   background-color:black;
 }
 h1 {
-  color: red;
+  color: #6600ff;
+}
+h2 {
+  color: #6600ff;
+}
+p {
+  color: #6600ff;
+}
+hr {
+  background-color: ff0000;
 }
