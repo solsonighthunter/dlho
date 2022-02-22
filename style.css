@@ -19,5 +19,5 @@ p {
 }
 hr {
   background-color: #00ff00;
-  size: 20px;
+  border-top: 5px;
 }
