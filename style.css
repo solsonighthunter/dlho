@@ -1,3 +1,6 @@
 body {
   background: #669999;
 }
+h1 {
+  flex: 50%;
+}
